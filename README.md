@@ -36,7 +36,7 @@ PhilosophyNLPWithDistilbert/
 - Python 3.7+
 - pip package manager
 
-📈 Results
+## 📈 Results
 The model achieves:
 
 High accuracy for distinct philosophical categories
@@ -45,14 +45,14 @@ Understandable confusion between related philosophical schools
 
 Robust performance across different text lengths and styles
 
-🔍 Key Findings
+## 🔍 Key Findings
 Best Performing Categories: German Idealism, Capitalism, Stoicism
 
 Common Confusions: Between related schools like Analytic vs Continental philosophy
 
 Model Strengths: Handles nuanced philosophical terminology effectively
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please feel free to:
 
 Submit pull requests
@@ -63,7 +63,7 @@ Suggest additional philosophical categories
 
 Improve model architecture or preprocessing
 
-📝 License
+## 📝 License
 This project is open source. Feel free to use it for academic or personal projects.
 
 🙏 Acknowledgments
