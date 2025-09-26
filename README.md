@@ -36,16 +36,6 @@ PhilosophyNLPWithDistilbert/
 - Python 3.7+
 - pip package manager
 
-### Installation Steps
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/philosophy-text-classification.git
-cd philosophy-text-classification
-
-2. Run the Jupyter notebook
-jupyter notebook PhilosophyNLPWithDistilbert.ipynb
-
 📈 Results
 The model achieves:
 
